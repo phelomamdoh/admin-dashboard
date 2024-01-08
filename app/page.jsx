@@ -23,7 +23,7 @@ const Homepage = () => {
           borderRadius: "6px",
         }}
       >
-        Login here
+        Login
       </Link>
     </div>
   );
